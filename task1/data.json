@@ -1,0 +1,6 @@
+[
+  {"name": "Laptop", "price": 1200, "category": "Electronics", "inStock": true},
+  {"name": "Chair", "price": 150, "category": "Furniture", "inStock": false},
+  {"name": "Pen", "price": 2, "category": "Stationery", "inStock": true},
+  {"name": "Smartphone", "price": 800, "category": "Electronics", "inStock": true}
+]
